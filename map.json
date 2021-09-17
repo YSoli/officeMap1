@@ -89,7 +89,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openCoWebSite",
+                 "name":"nav.openWebSite",
                  "type":"string",
                  "value":"https:\/\/jobtimise-postit.herokuapp.com"
                 }],
